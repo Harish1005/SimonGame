@@ -3,7 +3,8 @@ A classic Simon Game built using HTML, CSS, and JavaScript. Test your memory by 
 
 ## 🔗 Live Demo
 👉 Play the Game
-Replace with your actual GitHub Pages or hosting link.
+
+https://simon-game-harishmh.netlify.app/
 
 ## 🛠️ Tech Stack
 ✅ HTML5 – Structure of the game
