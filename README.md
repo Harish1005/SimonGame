@@ -1,6 +1,6 @@
-# SimonGame
+# 🎮SimonGame
 A simple Simon Game built with HTML, CSS, and JavaScript. Test your memory by repeating increasingly complex sequences of colors and sounds.
-# Features
+## ✅Features
 🔴 Color and Sound-Based Gameplay – Follows the classic Simon memory sequence game.
 
 🧠 Memory Challenge – Sequences get longer as you progress.
