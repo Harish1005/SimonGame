@@ -39,7 +39,7 @@ Example:
 ## 📖 How to Play
 Press any key to start the game.
 
-Watch the color sequence carefully.
+Watch the color & sound sequence carefully.
 
 Repeat the sequence by clicking the buttons in the same order.
 
